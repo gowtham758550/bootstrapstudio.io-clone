@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bootstrapstudio.io-clone/static/css/main.b1b59025.css",
+    "main.js": "/bootstrapstudio.io-clone/static/js/main.4b05cd9d.js",
+    "static/js/787.780015c0.chunk.js": "/bootstrapstudio.io-clone/static/js/787.780015c0.chunk.js",
+    "index.html": "/bootstrapstudio.io-clone/index.html",
+    "main.b1b59025.css.map": "/bootstrapstudio.io-clone/static/css/main.b1b59025.css.map",
+    "main.4b05cd9d.js.map": "/bootstrapstudio.io-clone/static/js/main.4b05cd9d.js.map",
+    "787.780015c0.chunk.js.map": "/bootstrapstudio.io-clone/static/js/787.780015c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1b59025.css",
+    "static/js/main.4b05cd9d.js"
+  ]
+}
