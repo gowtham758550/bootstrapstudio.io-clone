@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bootstrapstudio.io-clone/static/css/main.959fc060.css",
-    "main.js": "/bootstrapstudio.io-clone/static/js/main.3ec73789.js",
+    "main.css": "/bootstrapstudio.io-clone/static/css/main.a6d1c45a.css",
+    "main.js": "/bootstrapstudio.io-clone/static/js/main.1b24002e.js",
     "static/js/787.780015c0.chunk.js": "/bootstrapstudio.io-clone/static/js/787.780015c0.chunk.js",
     "index.html": "/bootstrapstudio.io-clone/index.html",
-    "main.959fc060.css.map": "/bootstrapstudio.io-clone/static/css/main.959fc060.css.map",
-    "main.3ec73789.js.map": "/bootstrapstudio.io-clone/static/js/main.3ec73789.js.map",
+    "main.a6d1c45a.css.map": "/bootstrapstudio.io-clone/static/css/main.a6d1c45a.css.map",
+    "main.1b24002e.js.map": "/bootstrapstudio.io-clone/static/js/main.1b24002e.js.map",
     "787.780015c0.chunk.js.map": "/bootstrapstudio.io-clone/static/js/787.780015c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.959fc060.css",
-    "static/js/main.3ec73789.js"
+    "static/css/main.a6d1c45a.css",
+    "static/js/main.1b24002e.js"
   ]
 }
