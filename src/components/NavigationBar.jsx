@@ -38,7 +38,7 @@ export default function NavigationBar () {
                         <Nav.Link className="text-white" href="#forum">
                             <span className="nav-item">Forum</span>
                         </Nav.Link>
-                        <Buttons className='' value="Purchase" variant="primary" /> 
+                        <Buttons className='sm-hidden' value="Purchase" variant="primary" /> 
                     </Nav>
                 </Navbar.Collapse>
             </Container>
