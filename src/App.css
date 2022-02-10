@@ -1,0 +1,14 @@
+
+.bg-light-blue {
+    background-color: #aec7da;
+}
+
+@media (min-width: 992px) {
+    .custom-padding-heading {
+        padding-top: 60px;
+        margin: 0px 70px 50px;
+    }
+    .custom-padding-paragraph {
+        margin: 0px 70px 50px;
+    }
+}

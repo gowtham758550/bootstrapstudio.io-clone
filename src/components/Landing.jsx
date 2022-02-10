@@ -19,9 +19,6 @@ export default function Landing () {
                         <span className="text-white"> Bootstrap framework</span>
                         .</p> 
                     </div>
-                    <div className="py-5">
-                        <Image fluid src="https://bootstrapstudio.io/assets/img/app_4.jpg" />
-                    </div>
                     <div>
                         <Buttons 
                             value={
@@ -33,6 +30,9 @@ export default function Landing () {
                                 </span>
                             }
                             variant="primary" />
+                    </div>
+                    <div className="py-5">
+                        <Image fluid src="https://bootstrapstudio.io/assets/img/app_4.jpg" />
                     </div>
                 </Card.Text>
             </Card.Body>

@@ -5,6 +5,7 @@ export default function Buttons (props) {
     return (
         <>
             <Button
+                onClick={props.action}
                 className='primary-button'
                 variant={props.variant}
             >
